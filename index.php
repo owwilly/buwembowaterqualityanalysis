@@ -27,5 +27,4 @@ endforeach;
 
 // Run the router
 Route::run('/');
-
 ?>
